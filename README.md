@@ -1,5 +1,5 @@
 ﻿# [MTcpServer](https://github.com/cm-MMK-2/MTcpServer/)
-A C++ tcp server library built on top of [libuv](https://github.com/libuv/libuv)(current version:1.20)
+A C++ tcp server library built on top of [libuv](https://github.com/libuv/libuv)(current version:1.20.0)
 
 ## Build
 Compiler supporting C++ 14 is required.
