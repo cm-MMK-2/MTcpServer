@@ -36,3 +36,6 @@
 /*.user
 /x64
 x64
+/MTcpServer.vcxproj
+/MTcpServer.vcxproj.filters
+/MTcpServer.vcxproj.user
