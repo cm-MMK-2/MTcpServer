@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ClientSession.cpp
+d:\github\mtcpserver\mtcpserver\clientsession.cpp(64): warning C4244: “参数”: 从“UINT64”转换到“ULONG”，可能丢失数据
+d:\github\mtcpserver\mtcpserver\clientsession.cpp(146): warning C4267: “参数”: 从“size_t”转换到“ULONG”，可能丢失数据
+d:\github\mtcpserver\mtcpserver\clientsession.cpp(152): warning C4244: “参数”: 从“ssize_t”转换到“int”，可能丢失数据
+  Packet.cpp
+  TcpServer.cpp
+d:\github\mtcpserver\mtcpserver\tcpserver.cpp(112): warning C4244: “参数”: 从“UINT64”转换到“const unsigned long”，可能丢失数据
+d:\github\mtcpserver\mtcpserver\tcpserver.cpp(113): warning C4244: “参数”: 从“UINT64”转换到“const unsigned long”，可能丢失数据
+  正在生成代码
+  All 408 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MTcpServer.vcxproj -> D:\github\MTcpServer\x64\Release\MTcpServer.exe
