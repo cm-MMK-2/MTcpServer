@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  MTcpServer.cpp
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(26): error C2061: 语法错误: 标识符“TcpServer”
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(75): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(75): error C2238: 意外的标记位于“;”之前
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(30): error C2065: “_server”: 未声明的标识符
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(30): error C2227: “->loop”的左边必须指向类/结构/联合/泛型类型
+  d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(30): note: 类型是“unknown-type”
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(45): error C2065: “server”: 未声明的标识符
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(45): error C2227: “->RemoveClient”的左边必须指向类/结构/联合/泛型类型
+  d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(45): note: 类型是“unknown-type”
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(124): error C3867: “TcpServer::on_new_connection”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\github\mtcpserver\mtcpserver\mtcpserver.cpp(195): error C3867: “ClientSession::on_new_message”: 非标准语法；请使用 "&" 来创建指向成员的指针
