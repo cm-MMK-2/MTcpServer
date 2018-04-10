@@ -42,3 +42,6 @@ x64
 MTcpServer.vcxproj.user
 MTcpServer.vcxproj
 MTcpServer.vcxproj.filters
+/MTcpServer.vcxproj.user
+/MTcpServer.vcxproj
+/MTcpServer.vcxproj.filters
